@@ -13,7 +13,7 @@ function Navbar() {
             <a href="/about">About</a>
           </li>
           <li tabindex="0">
-            <a>
+            <a href="/plan">
               Products
               <svg
                 class="fill-current"
